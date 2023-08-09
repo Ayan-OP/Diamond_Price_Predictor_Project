@@ -5,8 +5,8 @@ sys.path.insert(0, 'C:\\Users\\ayaan\\Downloads\\Diamond_Price_Predictor\\src')
 import pickle
 import numpy as np 
 import pandas as pd
-from exception import CustomException
-from logger import logging
+from src.exception import CustomException
+from src.logger import logging
 
 from sklearn.metrics import r2_score,mean_absolute_error,mean_squared_error
 

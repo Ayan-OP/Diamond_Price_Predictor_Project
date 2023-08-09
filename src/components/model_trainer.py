@@ -9,13 +9,13 @@ import os
 
 sys.path.insert(0, 'C:\\Users\\ayaan\\Downloads\\Diamond_Price_Predictor\\src')
 
-from exception import CustomException
-from logger import logging
+from src.exception import CustomException
+from src.logger import logging
 
 
 
-from utils import save_object
-from utils import evaluate_model
+from src.utils import save_object
+from src.utils import evaluate_model
 
 from dataclasses import dataclass
 

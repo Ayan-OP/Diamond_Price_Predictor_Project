@@ -12,10 +12,10 @@ from dataclasses import dataclass
 import pandas as pd
 import numpy as np
 
-from exception import CustomException
-from logger import logging
+from src.exception import CustomException
+from src.logger import logging
 
-from utils import save_object
+from src.utils import save_object
 
 
 ## Data Transformation config

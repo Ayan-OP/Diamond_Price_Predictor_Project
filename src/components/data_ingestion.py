@@ -2,8 +2,8 @@ import os
 import sys
 sys.path.insert(0, 'C:\\Users\\ayaan\\Downloads\\Diamond_Price_Predictor\\src')
 
-from logger import logging
-from exception import CustomException
+from src.logger import logging
+from src.exception import CustomException
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from dataclasses import dataclass

@@ -2,9 +2,9 @@ import sys
 import os
 sys.path.insert(0, 'C:\\Users\\ayaan\\Downloads\\Diamond_Price_Predictor\\src')
 
-from exception import CustomException
-from logger import logging
-from utils import load_object
+from src.exception import CustomException
+from src.logger import logging
+from src.utils import load_object
 import pandas as pd
 
 class PredictPipeline:
