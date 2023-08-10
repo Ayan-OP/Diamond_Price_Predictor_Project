@@ -61,7 +61,7 @@ SS Link: https://drive.google.com/file/d/13dvthrqhI6lFD1vUrvzY2e0AOJdT_Q59/view?
 * Flask app is created with User Interface to predict the gemstone prices inside a Web Application.
 
 6. ### Exploratory Data Analysis Notebook
-[EDA Notebook](https://github.com/Ayan-OP/Diamond_Price_Predictor_Project/blob/main/notebooks/EDA.ipynb)
+* [EDA Notebook](https://github.com/Ayan-OP/Diamond_Price_Predictor_Project/blob/main/notebooks/EDA.ipynb)
 
 7. ### Model Training Approach Notebook
-[Model Training Notebook](https://github.com/Ayan-OP/Diamond_Price_Predictor_Project/blob/main/notebooks/Model%20Training.ipynb)
+* [Model Training Notebook](https://github.com/Ayan-OP/Diamond_Price_Predictor_Project/blob/main/notebooks/Model%20Training.ipynb)
