@@ -49,9 +49,8 @@ SS Link: https://drive.google.com/file/d/13dvthrqhI6lFD1vUrvzY2e0AOJdT_Q59/view?
 * This preprocessor is saved as pickle file.
 
 3. ### Model Training :
-* In this phase base model is tested . The best model found was catboost regressor.
-* After this hyperparameter tuning is performed on catboost and knn model.
-* A final VotingRegressor is created which will combine prediction of catboost, xgboost and knn models.
+* In this phase base model is tested . The best model found was Decision Tree regressor.
+* R2 score of the model was found to be close to 95.5%.
 * This model is saved as pickle file.
 
 4. ### Prediction Pipeline :
